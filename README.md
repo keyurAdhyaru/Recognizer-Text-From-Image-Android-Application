@@ -1,0 +1,1 @@
+# Recognizer-Text-From-Image-Android-Application
